@@ -18,3 +18,7 @@ builder_config.json
 *.egg-info
 dist
 build
+*.db
+*.sqlite
+*.sqlite3
+*.jpg
