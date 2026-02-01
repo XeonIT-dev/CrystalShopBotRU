@@ -1,4 +1,4 @@
-# 💎 CrystalShopBotRU v.1.0.0-beta
+# 💎 CrystalShopBotRU v.1.0.1-beta
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
@@ -10,7 +10,7 @@
 
 
 ---
-## Version v.1.0.0-beta
+## Version v.1.0.1-beta
 ---
 
 
@@ -103,7 +103,7 @@
 --------------------------------------------------------------
 
 
-## 🐧 Установка (Linux)
+## 🐧 Установка (Linux Manual)
 
 │
 ├──🟠 Ubuntu / Debian
@@ -137,8 +137,20 @@ python main.py
 sudo dnf install -y python3 python3-pip git
 git clone https://github.com/XeonIT-dev/CrystalShopBotRU.git
 cd CrystalShopBotRU
+source .venv/bin/activate
 pip3 install -r requirements.txt
 python3 main.py
+```
+
+--------------------------------------------------------------
+
+## 🐧⚙️  Установка (Linux Autoinstall)
+
+```bash
+git clone https://github.com/XeonIT-dev/CrystalShopBotRU.git
+cd CrystalShopBotRU
+chmod +x start.sh
+./start.sh
 ```
 
 --------------------------------------------------------------
