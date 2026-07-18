@@ -218,20 +218,6 @@ chmod +x start.sh
 ## 💖 Поддержать проект
 
 
-Если тебе нравится **CrystalShopBotRU** и ты хочешь поддержать развитие проекта, можно:
-
-
-💰 **Криптовалютой**
-- BTC (Bitcoin): 13sFrrhBLZ8oqv4uWmPSWeXQcqz5EnERGb
-- ETH (Ethereum): ethereum:0xc2a891b96c0ce30cc123d9257306b6f56a3122b7
-- USDT (TRC-20): TQ9Nxw18VTRYyfWhYSWZ5hbczLLWWYW37T
-- USDT (ERC-20): 0xc2a891b96c0ce30cc123d9257306b6f56a3122b7
-- XMR (Monero): 46QEeTgbG8f7eZ7cnQ7hVFjoCh5pEHhCySmMSgFREHex98FtnnwX2VsQFHii3CWBoo3n3ANFg2vCkLdscGQ8JXH3S9F5bg3
-- LTC (Litecoin): LLDmozmNkThuoxbVwVRfjURkPXiuv6pbKG
-- SOL (Solana): 5AxYyksUtHzN27rXfQfijzCALoaHy7xYB99T8zrRmYBi
-- USDC (ERC-20): 0xc2a891b96c0ce30cc123d9257306b6f56a3122b7
-
-
 ☕ **Yoomoney/СБП/Банковские карты РФ**
 - [Yoomoney](https://yoomoney.ru/to/4100119458290881)
 
